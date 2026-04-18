@@ -1,1 +1,2 @@
-# CANCER DETECTION USING VISION TRANSFORMER MODEL
+# Trustworthy AI Using Vision Transformer Model
+
