@@ -9,5 +9,6 @@ scikit-learn
 Pillow
 opencv-python
 tqdm
+flask>=3.0.0
 ipykernel
 jupyter
